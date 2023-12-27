@@ -3,6 +3,7 @@ Runtime: 32 ms (91.5%)
 Memory: 17.4 MB (6.62%)
 """
 
+
 from typing import List
 
 class Solution:
