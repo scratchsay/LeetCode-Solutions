@@ -7,7 +7,7 @@
 ⭐Star the repository and let's conquer LeetCode together!
 
 ## Solution
-1.  [✅ Two Sum](https://github.com/Mouse/LeetCode-Solutions/blob/main/two_sum.py)
+1.  [✅ Two Sum](https://github.com/scratchsay/LeetCode-Solutions/blob/main/src/easy/two_sum.py)
 2.  ✅ Add Two Numbers
 3.  ✅ Longest Substring Without Repeating Characters
 4.  ✅ Median of Two Sorted Arrays
