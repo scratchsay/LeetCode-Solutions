@@ -1,6 +1,6 @@
 """
-Runtime: 51 ms (98.36%)
-Memory 18.7 MB (6.9%)
+Runtime: 42 ms (92.69%)
+Memory 17.2 MB (7.71%)
 """
 
 class Solution:
