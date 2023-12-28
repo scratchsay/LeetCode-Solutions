@@ -9,7 +9,7 @@
 ## Solution
 1.  [✅ Two Sum](https://github.com/scratchsay/LeetCode-Solutions/blob/main/src/easy/two_sum.py)
 2.  [✅ Add Two Numbers](https://github.com/scratchsay/LeetCode-Solutions/blob/main/src/medium/add_two_numbers.py)
-3.  ✅ Longest Substring Without Repeating Characters
+3.  [✅ Longest Substring Without Repeating Characters](https://github.com/scratchsay/LeetCode-Solutions/blob/main/src/medium/longest_substring_without_repeating_characters.py)
 4.  ✅ Median of Two Sorted Arrays
 5.  ✅ Longest Palindromic Substring
 6.  ✅ ZigZag Conversion
