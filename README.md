@@ -8,7 +8,7 @@
 
 ## Solution
 1.  [✅ Two Sum](https://github.com/scratchsay/LeetCode-Solutions/blob/main/src/easy/two_sum.py)
-2.  ✅ Add Two Numbers
+2.  [✅ Add Two Numbers](https://github.com/scratchsay/LeetCode-Solutions/blob/main/src/medium/add_two_numbers.py)
 3.  ✅ Longest Substring Without Repeating Characters
 4.  ✅ Median of Two Sorted Arrays
 5.  ✅ Longest Palindromic Substring
