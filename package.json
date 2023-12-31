@@ -1,0 +1,13 @@
+{
+    "name": "LeetCode-Solutions",
+    "version": "v.1.0.4",
+    "description": "LeetCode Solutions in PEP8",
+    "repository": {
+      "type": "Github",
+      "url": "https://github.com/scratchsay/LeetCode-Solutions/tree/main"
+    },
+    "files": [
+      "README.md, min_start_value.py, palindrome_number.py, roman_to_integer.py, two_sum.py, median_of_two_sorted_arrays.py, add_two_numbers.py, longest_substring_without_repeating_characters.py"
+    ]
+  }
+                       
